@@ -1,0 +1,2 @@
+1) Here In SportVehicle and offRoad Vehicle both uses the same functionality but we are writing in
+each seprately which is a problem of code duplicacy
