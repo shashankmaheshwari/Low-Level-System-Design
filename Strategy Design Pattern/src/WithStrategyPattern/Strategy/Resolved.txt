@@ -1,0 +1,2 @@
+When to use this Strategy Pattern-
+1) When you see that childs are having the same code which is not present in the base Class (parent Class)
